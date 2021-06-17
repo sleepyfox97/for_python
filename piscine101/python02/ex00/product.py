@@ -3,4 +3,4 @@ class Product:
         """
         return a string such as "This is the beset product in the world."
         """
-        return "this is the best product in the world."
+        return "This is the best product in the world."
