@@ -3,8 +3,7 @@ from PIL import Image,ImageFont,ImageDraw
 from discord.ext import commands
 
 
-TOKEN = 'ODU1MzA2MDk3NDM5MDE0OTcy.YMwj4A.FS9WMaDFHii1HqTgaCYfjoRi2eI'
-
+TOKEN=""
 
 bot = commands.Bot(command_prefix='!')
 flag = 0
